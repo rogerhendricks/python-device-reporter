@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biotronik-ieee11073-export creator-version="1.0" creator="BioICSConverter" format-version="4.3">
+	<dataset>
+		<section name="MDC">
+			<section name="IDC">
+
+				<section name="DEV">
+					<value name="TYPE" type="MDC_IDC_ENUM_DEV_TYPE">IPG</value>
+					<value name="MODEL" type="String">Entovis SR-T</value>
+					<value name="SERIAL" type="String">68104160</value>
+					<value name="MFG" type="MDC_IDC_ENUM_MFG">BIO</value>
+					<value name="IMPLANT_DT" type="DateTime">20140912T000000</value>
+					<value name="IMPLANTER" type="String">Dr Stuart Thomas</value>
+					<value name="IMPLANTING_FACILITY" type="String">Westmead Public </value>
+				</section>
+	
+				<section name="SESS">
+					<value name="DTM" type="DateTime">20181019T125617+1000</value>
+					<value name="TYPE" type="MDC_IDC_ENUM_SESS_TYPE">InClinic</value>
+					<value name="DTM_PREVIOUS" type="DateTime">20180320T000000</value>
+				</section>
+	
+	
+				<section name="MSMT">
+					<section name="BATTERY">
+						<value name="DTM" type="DateTime">20181019T125617</value>
+						<value name="STATUS" type="MDC_IDC_ENUM_BATTERY_STATUS">MOS</value>
+						<value name="REMAINING_PERCENTAGE" type="Numeric" unit="%">75</value>
+					</section>
+		
+					<section name="LEADCHNL_RV">
+						<section name="SENSING">
+							<value name="INTR_AMPL_MEAN" type="Numeric" unit="mV">12.5</value>
+							<value name="POLARITY" type="MDC_IDC_ENUM_POLARITY">BI</value>
+						</section>
+			
+						<section name="PACING_THRESHOLD">
+							<value name="PULSEWIDTH" type="Numeric" unit="ms">0.4</value>
+							<value name="POLARITY" type="MDC_IDC_ENUM_POLARITY">BI</value>
+						</section>
+		
+						<section name="IMPEDANCE">
+							<value name="VALUE" type="Numeric" unit="Ohm">546</value>
+							<value name="POLARITY" type="MDC_IDC_ENUM_POLARITY">BI</value>
+						</section>
+					</section>
+				</section>
+		
+				<section name="SET">
+					<section name="MAGNET">
+						<value name="RESP" type="String">ASYNC</value>
+					</section>
+					<section name="LEADCHNL_RV">
+						<section name="SENSING">
+							<value name="POLARITY" type="MDC_IDC_ENUM_POLARITY">BI</value>
+							<value name="ADAPTATION_MODE" type="MDC_IDC_ENUM_SENSING_ADAPTATION_MODE">AdaptiveSensing</value>
+						</section>
+						<section name="PACING">
+							<value name="AMPLITUDE" type="Numeric" unit="V">1.4</value>
+							<value name="PULSEWIDTH" type="Numeric" unit="ms">0.4</value>
+							<value name="POLARITY" type="MDC_IDC_ENUM_POLARITY">BI</value>
+							<value name="CAPTURE_MODE" type="MDC_IDC_ENUM_PACING_CAPTURE_MODE">MonitorCapture</value>
+						</section>
+					</section>
+
+
+					<section name="BRADY">
+						<value name="MODE" type="MDC_IDC_ENUM_BRADY_MODE">VVI</value>
+						<value name="VENDOR_MODE" type="String">VVI-CLS</value>
+						<value name="LOWRATE" type="Numeric" unit="{beats}/min">50</value>
+						<value name="SENSOR_TYPE" type="String">Card. Contractility</value>
+						<value name="MAX_SENSOR_RATE" type="Numeric" unit="{beats}/min">120</value>
+					</section>
+				</section>
+			<section name="STAT">
+				<section name="BRADY">
+					<value name="DTM_START" type="DateTime">20180320T000000</value>
+					<value name="DTM_END" type="DateTime">20181019T125617</value>
+					<value name="RV_PERCENT_PACED" type="Numeric" unit="%">7</value>
+					</section>
+
+				<section name="AT">
+					<value name="DTM_START" type="DateTime">20180320T000000</value>
+					<value name="DTM_END" type="DateTime">20181019T125617</value>
+				</section>
+
+				<section name="EPISODE">
+					<value name="TYPE" type="MDC_IDC_ENUM_EPISODE_TYPE">Epis_VT</value>
+					<value name="VENDOR_TYPE" type="MDC_IDC_ENUM_EPISODE_VENDOR_TYPE">BIO-Epis_VT1</value>
+					</section>
+
+				<section name="EPISODE">
+					<value name="TYPE" type="MDC_IDC_ENUM_EPISODE_TYPE">Epis_VT</value>
+					<value name="VENDOR_TYPE" type="MDC_IDC_ENUM_EPISODE_VENDOR_TYPE">BIO-Epis_VT2</value>
+				</section>
+
+				<section name="EPISODE">
+					<value name="TYPE" type="MDC_IDC_ENUM_EPISODE_TYPE">Epis_VF</value>
+					<value name="VENDOR_TYPE" type="MDC_IDC_ENUM_EPISODE_VENDOR_TYPE">BIO-Epis_VF</value>
+				</section>
+
+				<section name="EPISODE">
+					<value name="TYPE" type="MDC_IDC_ENUM_EPISODE_TYPE">Epis_ATAF</value>
+					<value name="VENDOR_TYPE" type="MDC_IDC_ENUM_EPISODE_VENDOR_TYPE">BIO-Epis_AMon</value>
+					<value name="TOTAL_COUNT_DTM_START" type="DateTime">20140912T000000</value>
+					<value name="TOTAL_COUNT_DTM_END" type="DateTime">20181019T125617</value>
+				</section>
+
+				<section name="EPISODE">
+					<value name="TYPE" type="MDC_IDC_ENUM_EPISODE_TYPE">Epis_SVT</value>
+					<value name="VENDOR_TYPE" type="MDC_IDC_ENUM_EPISODE_VENDOR_TYPE">BIO-Epis_SVT</value>
+				</section>
+
+				<section name="EPISODE">
+					<value name="TYPE" type="MDC_IDC_ENUM_EPISODE_TYPE">Epis_VT</value>
+					<value name="VENDOR_TYPE" type="MDC_IDC_ENUM_EPISODE_VENDOR_TYPE">BIO-Epis_AMon</value>
+				</section>
+
+				<section name="EPISODE">
+					<value name="TYPE" type="MDC_IDC_ENUM_EPISODE_TYPE">Epis_PatientActivated</value>
+					<value name="VENDOR_TYPE" type="MDC_IDC_ENUM_EPISODE_VENDOR_TYPE">BIO-Epis_PAT</value>
+					</section>
+
+				<section name="EPISODE">
+					<value name="TYPE" type="MDC_IDC_ENUM_EPISODE_TYPE">Epis_Other</value>
+					<value name="VENDOR_TYPE" type="MDC_IDC_ENUM_EPISODE_VENDOR_TYPE">BIO-Epis_BRADY</value>
+				</section>
+
+				<section name="EPISODE">
+					<value name="TYPE" type="MDC_IDC_ENUM_EPISODE_TYPE">Epis_Other</value>
+					<value name="VENDOR_TYPE" type="MDC_IDC_ENUM_EPISODE_VENDOR_TYPE">BIO-Epis_AT</value>
+				</section>
+
+				<section name="EPISODE">
+					<value name="TYPE" type="MDC_IDC_ENUM_EPISODE_TYPE">Epis_Other</value>
+					<value name="VENDOR_TYPE" type="MDC_IDC_ENUM_EPISODE_VENDOR_TYPE">BIO-Epis_HVR</value>
+				</section>
+			</section>
+		</section>
+		<section name="ATTR">
+			<section name="PT">
+				<value name="ID" type="String">0</value>
+				<value name="NAME_GIVEN" type="String">Jean</value>
+				<value name="NAME_FAMILY" type="String">Grey</value>
+				<value name="SEX" type="String">2</value>
+				<value name="DOB" type="Date">19410421</value>
+			</section>
+		</section>
+	</section>
+
+
+	<section name="BIO">
+		<section name="REQUEST">
+			<value name="DATE" type="DateTime">20181019T125900+1000</value>
+			<value name="ID" type="String">61703120_20181019T125900</value>
+				<section name="PROGRAMMER">
+					<value name="SERIAL" type="String">61703120</value>
+					<value name="SW_VERSION_AT_REQUEST" type="String">PSW 1701.A/3</value>
+					<value name="SW_VERSION_AT_FOLLOWUP" type="String">PSW 1701.A/3</value>
+				</section>
+				<section name="REPORTS">
+					<section name="STATUS_REPORT">
+						<value name="ID" type="String">BIOSTD_2018-10-19_12-55-52_Grey_J_68104160</value>
+						<value name="CONTENT" type="application/pdf" encoding="base64">JVBERi0xLjMKJcfsj6IKNSAwIG9iago8PC9MZW5ndGggNiAwIFIvRmlsdGVyIC9G</value>
+					</section>
+				</section>
+		</section>
+	</section>
+</dataset>
+</biotronik-ieee11073-export>

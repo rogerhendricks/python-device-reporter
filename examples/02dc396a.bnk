@@ -1,0 +1,314 @@
+# TYPE: PACEART           SAVE DATE: 28 Mar 2019
+# PROGRAMMER      MODEL: 3120 SERIAL: 068424
+# DEVICE          MODEL: D174-200-0  SERIAL: 227206
+# RAM VERSION: E_v1.02.00
+# ROM VERSION: ROM_v5.04
+# APPLICATION     MODEL: 2868 VERSION: 4.07
+# FORMAT_CODE,00
+ApneaTrendParams.Duration,7 h
+ApneaTrendParams.StartTime,23:00
+BatteryStatus.BatteryPhase,Beginning of Life
+BatteryStatus.EOLTimestamp.LastTrippedTimestamp,N/R
+BatteryStatus.ERITimestamp.LastTrippedTimestamp,N/R
+BdyCounterData.Previous.RateSearch.Attempts,0
+BdyCounterData.Previous.RateSearch.Successes,0
+BdyCounterData.Recent.RateSearch.Attempts,0
+BdyCounterData.Recent.RateSearch.Successes,0
+BdyNormBradyMode,VVI
+BdyNormHystRateDrop,Off
+BdyNormRateSmoothingDown,Off
+BdyNormRateSmoothingUp,--
+BdyNormVAmplitude,2.0 V
+BdyNormVAutoAmplitudeSetup,Off
+BdyNormVAutoAmplitude,Off
+BdyNormVentRateRegEnable,Off
+BdyNormVPulseWidth,0.4 ms
+BdyNormVRPDynEnable,Off
+BdyNormVRPFixed,250.0 ms
+BdyNormVRPMax,250.0 ms
+BdyNormVRPMin,--
+BdyNormXLActivityThreshold,--
+BdyNormXLReactionTime,--
+BdyNormXLRecoveryTime,--
+BdyNormXLResponseFactor,--
+BdyPSBradyMode,VVI
+BdyPSDelay,2.25 s
+BdyPSHystRateDrop,Off
+BdyPSPeriod,00:30 m:s
+BdyPSRateSmoothingDown,Off
+BdyPSRateSmoothingUp,Off
+BdyPSVAmplitude,5.0 V
+BdyPSVentRateRegEnable,Off
+BdyPSVPulseWidth,1.0 ms
+BdyPSVRPFixed,250.0 ms
+BdyPSXLActivityThreshold,Medium
+BdyPSXLReactionTime,30.0 s
+BdyPSXLRecoveryTime,2 min
+BdyPSXLResponseFactor,8
+CapformChargeTime,10.298 s
+CapReformDoneData.LastCapReformTime,Mon Jan 28 00:21:38 GMT 2019
+CardiacSensingParams.BdyNormRVSensitivity,AGC 0.6
+CCTTemplateStatus.TemplateAcquiredTs,Thu Mar 28 08:21:36 GMT 2019
+CmdTmpAcqSucceeded,false
+CounterResetData.PreviousResetTimeDisplay,Thu Mar 29 11:09:36 GMT 2018
+CtrLastResetDate,Thu Sep 27 11:33:30 GMT 2018
+DetectOnset,--
+DetectOnsetStabilityLogic,--
+DetectOnsetUnits,--
+DetectPostShockSRD,--
+DetectPostShockStability,--
+DetectSRD,--
+DetectStabilityInhibitor,--
+DetectVFDuration,1.0 s
+DetectVFInterval,250.0 ms
+DetectVFPostShockDuration,1.0 s
+DetectVFRedetectionDuration,1.0 s
+DetectVT1Duration,--
+DetectVT1Interval,--
+DetectVT1PostShockDuration,--
+DetectVT1PSSRD,--
+DetectVT1PSSVTInhibit,--
+DetectVT1RedetectionDuration,--
+DetectVT1SRD,--
+DetectVT1SVTInhibit,--
+DetectVTDuration,2.5 s
+DetectVTInterval,333.0 ms
+DetectVTPostShockDuration,1.0 s
+DetectVTPSSRD,--
+DetectVTPSSVTInhibit,Off
+DetectVTRedetectionDuration,1.0 s
+DetectVTSRD,Off
+DetectVTStabilityAccelerator,--
+DetectVTSVTInhibit,On
+DeviceMode,Therapy Enabled
+DeviceStateHist.FirstStorageExitTime,Wed Jan 31 10:07:58 GMT 2018
+IntDataSrchParams.BradyParams.BradyMode,VVI
+IntDataSrchParams.BradyParams.LRLIntvl,1500.0 ms
+IntDataSrchParams.UseNormLRLIntvl,true
+InterPaceThreshResult.RVMsmt.Amplitude,
+InterPaceThreshResult.RVMsmt.PulseWidth,
+InterPaceThreshResult.RVMsmt.TestTime,N/R
+InterPaceThreshResult.RVMsmt.TestType,Amplitude
+ManualIntrinsicResult.RVMsmt.Msmt,>25
+ManualLeadImpedData.RVMsmt.Msmt,432.0 ohms
+MaxShockEnergy,41.0 J
+NormParams.ATRVTRLRLIntvl,857.0 ms
+NormParams.LRLIntvl,1500.0 ms
+NormParams.MSRIntvl,--
+NormParams.MV.BilinearResponse,--
+NormParams.MV.BilinRespBreakPoint,--
+NormParams.MV.ResponseFactor,--
+NormParams.MV.SensorSelect,--
+NormParams.NoiseResponse,VOO
+NormParams.RateSrchHyst.Frequency,--
+NormParams.SSIMaxPaceRateIntvl,--
+NormParams.VRRBTMinIntvl,--
+NormParams.XL.Enable,--
+NumberOfTachyZones,2
+PaceVectorsParam.RV,Bipolar
+PatientBirthDay,30
+PatientBirthMonth,Jul
+PatientBirthYear,1954
+PatientCardiacDisease1,N/R
+PatientCardiacDisease2,N/R
+PatientData.ImplantDay,31
+PatientData.ImplantMonth,Jan
+PatientData.ImplantYear,2018
+PatientData.Lead1.ImplantMonth,N/R
+PatientData.Lead1.ImplantYear,N/R
+PatientData.Lead2.ImplantMonth,N/R
+PatientData.Lead2.ImplantYear,N/R
+PatientData.Lead3.ImplantMonth,N/R
+PatientData.Lead3.ImplantYear,N/R
+PatientData.Lead4.ImplantMonth,N/R
+PatientData.Lead4.ImplantYear,N/R
+PatientData.Lead5.ImplantMonth,N/R
+PatientData.Lead5.ImplantYear,N/R
+PatientData.LeadA.ImplantMonth,Jan
+PatientData.LeadA.ImplantYear,2018
+PatientData.PatientPhys.FirstName,
+PatientData.PatientPhys.LastName,
+PatientData.PatientPhys.MiddleInitial,
+PatientData.PatientPhys.PhoneNum1,
+PatientData.PatientPhys.PhoneNum2,
+PatientDFT,N/R
+PatientFirstName,Jane
+PatientFitnessLevel,--
+PatientFuncHeartClass,N/R
+PatientGender,Male
+PatientHeight,N/R
+PatientHeightUnits,cm
+PatientHospital, Westmead
+PatientIndicationAtrial1,N/R
+PatientIndicationAtrial2,N/R
+PatientIndicationAtrial3,N/R
+PatientIndicationConduction1,N/R
+PatientIndicationConduction2,N/R
+PatientIndicationConduction3,N/R
+PatientIndicationVent1,N/R
+PatientIndicationVent2,N/R
+PatientIndicationVent3,N/R
+PatientIntrinsicVAmplitude,N/R
+PatientLastName,Doe
+PatientLeadAManufacturer,Boston Scientific
+PatientLeadAModelNum,0692
+PatientLeadAPolarity,DF4 Single
+PatientLeadAPosition,Right Ventricle
+PatientLeadASerialNum,533092
+PatientLeadV1Manufacturer,N/R
+PatientLeadV1ModelNum,
+PatientLeadV1Polarity,N/R
+PatientLeadV1Position,N/R
+PatientLeadV1SerialNum,
+PatientLeadV2Manufacturer,N/R
+PatientLeadV2ModelNum,
+PatientLeadV2Polarity,N/R
+PatientLeadV2Position,N/R
+PatientLeadV2SerialNum,
+PatientLeadV3Manufacturer,N/R
+PatientLeadV3ModelNum,
+PatientLeadV3Polarity,N/R
+PatientLeadV3Position,N/R
+PatientLeadV3SerialNum,
+PatientLeadV4Manufacturer,N/R
+PatientLeadV4ModelNum,
+PatientLeadV4Polarity,N/R
+PatientLeadV4Position,N/R
+PatientLeadV4SerialNum,
+PatientLeadV5Manufacturer,N/R
+PatientLeadV5ModelNum,
+PatientLeadV5Polarity,N/R
+PatientLeadV5Position,N/R
+PatientLeadV5SerialNum,
+PatientLeftVentEjectFraction,N/R
+PatientMiddleInit,
+PatientNotes1,
+PatientNotes2,
+PatientNotes3,
+PatientPhysFirstName,Dr Iyegar
+PatientPhysLastName,
+PatientPhysMiddleInit,
+PatientPhysPhoneNum,
+PatientShockImped,N/R
+PatientVImped,N/R
+PatientVThreshAmpl,N/R
+PatientVThreshPW,N/R
+PatientWeight,N/R
+PatientWeightUnits,kg
+PSParams.BradyParams.LRLIntvl,1000.0 ms
+SenseVectorsParam.RV,Bipolar
+ShockEnableReconfirm,Off
+ShockImpedanceLastMeas0,60.0 ohms
+ShockImpedanceLastMeas1,60.0 ohms
+ShockLastFireChargeTime,3.798 s
+ShockLastFireEnergy,21.0 J
+ShockLastImpedance,64.0 ohms
+ShockLeadPolarity,Initial
+ShockVectorsParam.VShock,RV Coil to Can
+SystemModelNumber,D174-200-0
+SystemName,AUTOGEN ICD
+SystemSerialNumber,227206
+SystemTypeTierName,Single Chamber ICD
+TachyMode,Monitor + Therapy
+VTachyConstParam.VThpySelection.MaxNumShocks[VFZone],8
+VDetectParams.EnhancementType,Rhythm ID
+VDetectParams.RhythmId.CCTAutoTempAcqParams.ActiveTemplateUpdateEnabled,On
+VDetectParams.RhythmId.CCTAutoTempAcqParams.AutoTempAcquisitionEnabled,On
+VDetectParams.RhythmId.Initial.VT1.SRD,--
+VDetectParams.RhythmId.Initial.VT1.UseRhythmId,--
+VDetectParams.RhythmId.PostShock.VT1.SRD,--
+VDetectParams.RhythmId.PostShock.VT1.UseRhythmId,--
+VDetectParams.RhythmId.StabilityThreshold,30.0 ms
+VDetectParams.RhythmId.RhythmMatchThreshold,94.0 %
+VFShock1Energy,41.0 J
+VFShock2Energy,41.0 J
+VT1ATP1BurstCycleLength,--
+VT1ATP1BurstCycleLengthUnit,--
+VT1ATP1CouplingInterval,--
+VT1ATP1CouplingIntervalDecr,--
+VT1ATP1CouplingIntervalUnit,--
+VT1ATP1InitialPulses,--
+VT1ATP1MaximumPulses,--
+VT1ATP1MinimumInterval,--
+VT1ATP1NumberOfBursts,--
+VT1ATP1PulseIncr,--
+VT1ATP1RampDecr,--
+VT1ATP1ScanDecr,--
+VT1ATP2BurstCycleLength,--
+VT1ATP2BurstCycleLengthUnit,--
+VT1ATP2CouplingInterval,--
+VT1ATP2CouplingIntervalDecr,--
+VT1ATP2CouplingIntervalUnit,--
+VT1ATP2InitialPulses,--
+VT1ATP2MaximumPulses,--
+VT1ATP2MinimumInterval,--
+VT1ATP2NumberOfBursts,--
+VT1ATP2PulseIncr,--
+VT1ATP2RampDecr,--
+VT1ATP2ScanDecr,--
+VT1MaxShockEnergy,--
+VT1Shock1Energy,--
+VT1Shock2Energy,--
+VTachyConstParam.VThpySelection.MaxNumShocks[VT1Zone],5
+VTachyConstParam.VThpySelection.MaxNumShocks[VTZone],6
+VTachyCounterData.Life.ATPSchemesDelivered,0
+VTachyCounterData.Life.ATPSucceededEpsd,0
+VTachyCounterData.Life.CmdEpsdTotal,0
+VTachyCounterData.Life.FirstShkSucceededEpsd,1
+VTachyCounterData.Life.NonSustainedEpsd,1
+VTachyCounterData.Life.NoThpyEpsd,0
+VTachyCounterData.Life.OneOrMoreATPEpsd,0
+VTachyCounterData.Life.OneOrMoreShksEpsd,1
+VTachyCounterData.Life.ShocksDelivered,1
+VTachyCounterData.Life.ShocksDiverted,0
+VTachyCounterData.Life.SustainedNoDetectEpsd,2
+VTachyCounterData.Life.ThpyDivertedEpsd,0
+VTachyCounterData.Life.VFEpsdTotal,1
+VTachyCounterData.Life.VT1EpsdTotal,0
+VTachyCounterData.Life.VTEpsdTotal,0
+VTachyCounterData.Reset.ATPSchemesDelivered,0
+VTachyCounterData.Reset.ATPSucceededEpsd,0
+VTachyCounterData.Reset.CmdEpsdTotal,0
+VTachyCounterData.Reset.FirstShkSucceededEpsd,1
+VTachyCounterData.Reset.NonSustainedEpsd,0
+VTachyCounterData.Reset.NoThpyEpsd,0
+VTachyCounterData.Reset.OneOrMoreATPEpsd,0
+VTachyCounterData.Reset.OneOrMoreShksEpsd,1
+VTachyCounterData.Reset.ShocksDelivered,1
+VTachyCounterData.Reset.ShocksDiverted,0
+VTachyCounterData.Reset.SustainedNoDetectEpsd,1
+VTachyCounterData.Reset.ThpyDivertedEpsd,0
+VTachyCounterData.Reset.VFEpsdTotal,1
+VTachyCounterData.Reset.VT1EpsdTotal,0
+VTachyCounterData.Reset.VTEpsdTotal,0
+VTATP1BurstCycleLength,81.0 %
+VTATP1BurstCycleLengthUnit,%
+VTATP1CouplingInterval,81.0 %
+VTATP1CouplingIntervalDecr,0.0 ms
+VTATP1CouplingIntervalUnit,%
+VTATP1InitialPulses,8
+VTATP1MaximumPulses,--
+VTATP1MinimumInterval,200.0 ms
+VTATP1NumberOfBursts,4
+VTATP1PulseIncr,0
+VTATP1RampDecr,0.0 ms
+VTATP1ScanDecr,0.0 ms
+VTATP2BurstCycleLength,81.0 %
+VTATP2BurstCycleLengthUnit,%
+VTATP2CouplingInterval,81.0 %
+VTATP2CouplingIntervalDecr,0.0 ms
+VTATP2CouplingIntervalUnit,%
+VTATP2InitialPulses,8
+VTATP2MaximumPulses,--
+VTATP2MinimumInterval,200.0 ms
+VTATP2NumberOfBursts,2
+VTATP2PulseIncr,0
+VTATP2RampDecr,10.0 ms
+VTATP2ScanDecr,0.0 ms
+VTherapyParams.RVATPPulse.Amplitude,5.0 V
+VTherapyParams.RVATPPulse.PulseWidth,1.0 ms
+VTherapyParams.VFATPEnable,200.0 ms
+VTherapyParams.VT1ATPTimeout,--
+VTherapyParams.VTMaxShockEnergy,41.0 J
+VTShock1Energy,41.0 J
+VTShock2Energy,41.0 J
